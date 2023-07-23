@@ -1,7 +1,7 @@
 # Todo Add steps
 
 
-Backend Requirements
+Required Programs to Run
 * Make
 * docker
 
@@ -9,5 +9,5 @@ Backend Requirements
 ## Running
 ```bash
 make docker build-run
-curl localhost:5000/hello/Brandon # in another terminal
+curl localhost:6000/hello/Brandon # in another terminal
 ```
